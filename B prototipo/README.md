@@ -13,6 +13,6 @@ Parte 3: Exploración de Herramientas de Desarrollo
 2. Configuración Inicial: Configurar VsCode instalando las extensiones recomendadas para el desarrollo de IoT, como PlatformIO para desarrollo en Arduino y Python.
 3. Primer Proyecto: Crear un archivo simple de texto plano en VsCode y usar Git para hacer commit y push del archivo a un repositorio nuevo en tu cuenta de GitHub.
 
-[PROYECTO](/Primer_proyecto_Plano)
+[PROYECTO](./Primer_proyecto_Plano)
 
 ![alt text](<Captura de pantalla 2024-04-13 233812.png>)
