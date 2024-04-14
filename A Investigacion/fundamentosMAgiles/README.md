@@ -13,5 +13,5 @@
 
 1 - Crear la documentacion para las metodologias agiles: Scrum y Kanban
 
-[Documento](/Metodologias_agiles.pdf)
+[Documento](./Metodologias_agiles.pdf)
 
