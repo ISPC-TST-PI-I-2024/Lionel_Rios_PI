@@ -10,8 +10,8 @@
 
 ### ACTIVIDADES DE INVESTIGACIÓN
 
-[FUNDAMENTOS DE GIT](/fundamentosGit/)
+[FUNDAMENTOS DE GIT](./fundamentosGit/)
 
-[FUNDAMENTOS IOT](/fundamentosIoT/)
+[FUNDAMENTOS IOT](./fundamentosIoT/)
 
-[FUNDAMENTOS METODOLOGIAS AGILES](/fundamentosMAgiles/)
+[FUNDAMENTOS METODOLOGIAS AGILES](./fundamentosMAgiles/)
