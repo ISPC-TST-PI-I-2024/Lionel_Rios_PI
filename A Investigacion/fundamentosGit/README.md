@@ -16,6 +16,6 @@ Parte 2: Introducción a Git y GitHub
 
 
 
-[DOCUMENTO](/Fundamentos_GIT.pdf)
+[DOCUMENTO](./Fundamentos_GIT.pdf)
 
 

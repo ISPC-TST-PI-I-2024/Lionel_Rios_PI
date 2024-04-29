@@ -14,5 +14,7 @@ RESUMEN DEL TRABAJO: PUDE AVANZAR DESDE LA PAGINA DE WORWI, SOLO UNA PARTE YA QU
 
 CUANDO DESCARGUE EL PROYECTO, DESDE VSCODE, ME SOLICITA UNA LICENCIA DE USO.
 
+Luego de solucionarlo, me da un error al hacer PIO RUN, dejo screen abajo.-
+
 ![alt text](<Captura de pantalla 2024-04-14 124226.png>)
 
